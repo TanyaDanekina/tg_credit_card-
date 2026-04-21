@@ -15,11 +15,11 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/TanyaDanekina/tg_credit_card/main/bot_menu.png)
+![image](https://raw.githubusercontent.com/TanyaDanekina/tg_credit_card-/refs/heads/main/bot_menu.png.png)
 
 После выбора карты Visa:
 
-![image](https://raw.githubusercontent.com/TanyaDanekina/tg_credit_card/main/visa_card.png)
+![image](https://raw.githubusercontent.com/TanyaDanekina/tg_credit_card-/refs/heads/main/visa_card.png.png)
 
 
 ## 💻 Технологии
