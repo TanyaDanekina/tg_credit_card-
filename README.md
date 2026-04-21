@@ -15,11 +15,11 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/MaxEvdokimov1/tg_credit_card/main/bot_menu.png)
+![image](https://raw.githubusercontent.com/TanyaDanekina/tg_credit_card/main/bot_menu.png)
 
 После выбора карты Visa:
 
-![image](https://raw.githubusercontent.com/MaxEvdokimov1/tg_credit_card/main/visa_card.png)
+![image](https://raw.githubusercontent.com/TanyaDanekina/tg_credit_card/main/visa_card.png)
 
 
 ## 💻 Технологии
@@ -61,4 +61,4 @@ python3 card_bot.py
 
 ## Автор
 
-Максим Евдокимов ([@evdokmax](https://t.me/evdokmax))
+Татьяна Данекина ([@NC700Tanya](https://t.me/Танюша))
